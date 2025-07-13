@@ -8,4 +8,4 @@
   * 📝 **Nepali-LLM fine-tune** – small-footprint chat model for low-resource NLP (WIP)  
 * **Toolbox** – Python, PyTorch, TensorFlow/Keras, FastAPI, Git, Linux, basic SQL  
 * **Looking for** – teams shipping real-world NLP / EdTech products where I can contribute code fast  
-* **Contact** – `philippbogdan@…` • `+977-…` • [LinkedIn](https://linkedin.com/in/…)  
+* **Contact** – phibog1@gmail.com • +977 9709193389 • [LinkedIn](https://www.linkedin.com/in/philipp-bogdan-1249342b6/)
