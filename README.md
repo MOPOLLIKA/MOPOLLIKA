@@ -5,3 +5,7 @@
   * 🔤 **Scrabble Game** – full game engine + opponent algorithm (pygame)
 * **Toolbox** – Python, Sklearn, TensorFlow/Keras, NumPy, Pandas, MPL, Git, SQL 
 * **Contact** – philipp.bogdan25@imperial.ac.uk • +44 7498967541 • [LinkedIn](https://www.linkedin.com/in/philipp-bogdan-1249342b6/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MOPOLLIKA&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![MOPOLLIKA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOPOLLIKA&langs_count=10&theme=radical)](https://github.com/MOPOLLIKA)
